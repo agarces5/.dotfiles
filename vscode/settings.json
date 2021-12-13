@@ -1,0 +1,16 @@
+{
+    "explorer.confirmDelete": false,
+    "workbench.colorTheme": "Darcula Operator Mono",
+    "editor.fontFamily": "'Operator Mono'",
+    "editor.fontLigatures": true,
+    "files.associations": { 
+        "*.module": "php",
+    },
+    "code-runner.clearPreviousOutput": true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "workbench.editorAssociations": {
+        "*.xls": "default"
+    },
+}
