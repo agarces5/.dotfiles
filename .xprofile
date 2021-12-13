@@ -1,0 +1,7 @@
+setxkbmap us
+nitrogen --restore &
+picom &
+export _JAVA_AWT_WM_NONREPARENTING=1
+# DWM 
+dwmblocks &
+exec dwm 
