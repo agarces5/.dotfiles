@@ -1,16 +1,45 @@
 {
-    "explorer.confirmDelete": false,
-    "workbench.colorTheme": "Darcula Operator Mono",
-    "editor.fontFamily": "'Operator Mono'",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.fontLigatures": true,
-    "files.associations": { 
-        "*.module": "php",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Operator Mono, Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "normal",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+          {
+            "scope": [
+              //following will be in italic (=FlottFlott)
+              "comment",
+              "entity.name.type.class", //class names
+              "keyword", //import, export, return…
+              "constant", //String, Number, Boolean…, this, super
+              "storage.modifier", //static keyword
+              "storage.type.class.js", //class keyword
+            ],
+            "settings": {
+              "fontStyle": "italic"
+            }
+          },
+          {
+            "scope": [
+              //following will be excluded from italics (VSCode has some defaults for italics)
+              "invalid",
+              "keyword.operator",
+              "constant.numeric.css",
+              "keyword.other.unit.px.css",
+              "constant.numeric.decimal.js",
+              "constant.numeric.json"
+            ],
+            "settings": {
+              "fontStyle": ""
+            }
+          }
+        ]
     },
-    "code-runner.clearPreviousOutput": true,
-    "[html]": {
-        "editor.defaultFormatter": "vscode.html-language-features"
-    },
-    "workbench.editorAssociations": {
-        "*.xls": "default"
+    "workbench.colorTheme": "Dracula",
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
     },
 }
