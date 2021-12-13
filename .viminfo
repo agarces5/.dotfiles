@@ -1,0 +1,913 @@
+# Vim 8.2 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~MSle0~/color
+
+# Último SustituciónPatrón de búsqueda:
+~MSle0&Fira Code
+
+# Última cadena de sustitución:
+$OperatorMono
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq
+|2,0,1638633556,,"wq"
+:w
+|2,0,1638633554,,"w"
+:q!
+|2,0,1637843627,,"q!"
+:q
+|2,0,1637619672,,"q"
+:PlugInstall
+|2,0,1637619647,,"PlugInstall"
+:AirlineTheme dracula
+|2,0,1637617256,,"AirlineTheme dracula"
+:AirlineTheme simple
+|2,0,1637617237,,"AirlineTheme simple"
+:%s/Fira Code/OperatorMono
+|2,0,1637616468,,"%s/Fira Code/OperatorMono"
+:%s/FuraMono Nerd Font/Fira Code/g
+|2,0,1637616415,,"%s/FuraMono Nerd Font/Fira Code/g"
+:%s/FiraCode/FuraMono Nerd Font/g
+|2,0,1637616245,,"%s/FiraCode/FuraMono Nerd Font/g"
+:%s/OperatorMono/FiraCode/g
+|2,0,1637615596,,"%s/OperatorMono/FiraCode/g"
+:PlugClean
+|2,0,1637613274,,"PlugClean"
+:PlugUpdate
+|2,0,1637613267,,"PlugUpdate"
+:xit
+|2,0,1633187843,,"xit"
+:CocList snippets
+|2,0,1633186843,,"CocList snippets"
+:b .vim/keymapping/keys.vim
+|2,0,1633185652,,"b .vim/keymapping/keys.vim"
+:b index.html
+|2,0,1633185637,,"b index.html"
+:bd
+|2,0,1633184547,,"bd"
+:quickref
+|2,0,1633184504,,"quickref"
+:windows.txt
+|2,0,1633184484,,"windows.txt"
+:help
+|2,0,1633184403,,"help"
+:help quickref
+|2,0,1633185339,,"help quickref"
+:coc_snippet
+|2,0,1633183615,,"coc_snippet"
+:coc
+|2,0,1633183598,,"coc"
+:coc-snippet
+|2,0,1633183590,,"coc-snippet"
+:CocInstall coc-snippets
+|2,0,1633183502,,"CocInstall coc-snippets"
+:source ~/.vimrc
+|2,0,1633182196,,"source ~/.vimrc"
+:CocConfig
+|2,0,1633180676,,"CocConfig"
+:CocInstall coc-html
+|2,0,1633177600,,"CocInstall coc-html"
+:W
+|2,0,1633176795,,"W"
+:verbose imap <tab>
+|2,0,1633176567,,"verbose imap <tab>"
+:verbose <imap> tab
+|2,0,1633176557,,"verbose <imap> tab"
+:CocInstall coc-eslint
+|2,0,1633176346,,"CocInstall coc-eslint"
+:CocList extensions
+|2,0,1633176302,,"CocList extensions"
+:echo $VIMCONFIG
+|2,0,1633176012,,"echo $VIMCONFIG"
+:?
+|2,0,1633175991,,"?"
+:$VIMCONFIG
+|2,0,1633175962,,"$VIMCONFIG"
+:CocInstall coc-pyright coc-phpls
+|2,0,1633175848,,"CocInstall coc-pyright coc-phpls"
+:CocInstall coc-html coc-css coc-php
+|2,0,1633175781,,"CocInstall coc-html coc-css coc-php"
+:CocInstall coc-json coc-tsserver
+|2,0,1633175560,,"CocInstall coc-json coc-tsserver"
+:CocInstall
+|2,0,1633175538,,"CocInstall"
+:CocInfo
+|2,0,1633175502,,"CocInfo"
+:source %
+|2,0,1633175426,,"source %"
+:qa
+|2,0,1633176410,,"qa"
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/color
+|2,1,1637618137,47,"color"
+?/export
+|2,1,1637618123,47,"export"
+?/Fira
+|2,1,1637617565,47,"Fira"
+? Fira Code
+|2,1,1637616468,,"Fira Code"
+? FuraMono Nerd Font
+|2,1,1637616415,,"FuraMono Nerd Font"
+? FiraCode
+|2,1,1637616245,,"FiraCode"
+? OperatorMono
+|2,1,1637615596,,"OperatorMono"
+? \$\(cursor\|select\)\$
+|2,1,1633187919,,"\\$\\(cursor\\|select\\)\\$"
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+@y
+|2,3,1637613284,,"y"
+
+# Historia de Debug Line (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""0	LINE	0
+	¿se supone que, si haces un esquema de red, el servidor VPN está en la DMZ con una interfaz y con otra está en la en la red privada o cuál sería el esquema de red?
+	301
+<La VPN la puedes poner donde quieras siempre que tengas una IP pública y puedas abrir puertos. No hemos hablado en ningún momento de la DMZ, dependará en cada empresa de su esquema de red. Incluso se puede crear una red LAN exclusiva para el acceso remoto, limitando los recursos de la LAN o no.
+	389
+<Como esta se supone que es una presentación sobre acceso remoto, simplemente estoy hablando de una VPN, de la forma más sencilla posible (una LAN en donde estén todos los equipos con un router con una IP pública que se encarga de toda la red). Para que los usuarios puedan acceder a los recursos de la LAN, necesitan tener una IP del rango de la LAN, lo que se consigue con una VPN.
+	El usuario se conecta a través de internet al servidor VPN y con un usuario y contraseña, el servidor VPN le asigna una IP de la red local con la que puede acceder a los recursos de la LAN.
+	
+	Respecto a Anydesk/TeamViewer:
+	264
+<No se explica mucho en internet acerca de las conexiones a nivel de red que realiza, lo máximo que he encontrado es que utiliza TLS y los puertos por los que puede acceder, además de que se publicitan así: "descargar y usar sin necesidad de configurar nada".
+	Por lo que he podido encontrar, estos programas te asignan un identificador (ID) que no se puede cambiar y es la forma de encontrar tu equipo desde un cliente.
+	Sí, ambos son clientes.
+	Tanto el PC controlado como el controlador deben conectarse al servidor de TeamViewer en Internet para saltar su propio NAT, ¿se refiere a que si no puedo usar esos puertos para salir?
+	Si no puede usar el puerto 5938 utiliza el 443 y si no el 80. Si están todos bloqueados, no puede acceder al servidor de Teamviewer.
+	394
+<No entiendo la pregunta, si en tu equipo tienes un firewall bloqueando las conexiones entrantes y salientes de los puertos 80 y 443, no puedes acceder al protocolo HTTP/HTTPS, porque son los puertos que utiliza, pues lo mismo con Teamviewer y Anydesk, estos programas utilizan unos puertos para la conexión, si no se puede realizar conexiones a través de ellos, no funcionará el programa.
+|3,1,0,1,12,0,1637839531,"¿se supone que, si haces un esquema de red, el servidor VPN está en la DMZ con una interfaz y con otra está en la en la red privada o cuál sería el esquema de red?",>300
+|<"La VPN la puedes poner donde quieras siempre que tengas una IP pública y puedas abrir puertos. No hemos hablado en ningún momento de la DMZ, dependará en cada empresa de su esquema de red. Incluso se puede crear una red LAN exclusiva para el acceso remoto, limitando los recursos de la LAN o no.",>388
+|<"Como esta se supone que es una presentación sobre acceso remoto, simplemente estoy hablando de una VPN, de la forma más sencilla posible (una LAN en donde estén todos los equipos con un router con una IP pública que se encarga de toda la red). Para que los usuarios puedan acceder a los recursos de la LAN, necesitan tener una IP del rango de la LAN, lo que se consigue con una VPN.",>193
+|<"El usuario se conecta a través de internet al servidor VPN y con un usuario y contraseña, el servidor VPN le asigna una IP de la red local con la que puede acceder a los recursos de la LAN.","","Respecto a Anydesk/TeamViewer:",>265
+|<"No se explica mucho en internet acerca de las conexiones a nivel de red que realiza, lo máximo que he encontrado es que utiliza TLS y los puertos por los que puede acceder, además de que se publicitan así: \"descargar y usar sin necesidad de configurar nada\".","Por lo que he podido encontrar, estos programas te asignan un identificador (ID) que no se puede cambiar y es la forma de encontrar tu equipo desde un cliente.","Sí, ambos son clientes.",>187
+|<"Tanto el PC controlado como el controlador deben conectarse al servidor de TeamViewer en Internet para saltar su propio NAT, ¿se refiere a que si no puedo usar esos puertos para salir?","Si no puede usar el puerto 5938 utiliza el 443 y si no el 80. Si están todos bloqueados, no puede acceder al servidor de Teamviewer.",>393
+|<"No entiendo la pregunta, si en tu equipo tienes un firewall bloqueando las conexiones entrantes y salientes de los puertos 80 y 443, no puedes acceder al protocolo HTTP/HTTPS, porque son los puertos que utiliza, pues lo mismo con Teamviewer y Anydesk, estos programas utilizan unos puertos para la conexión, si no se puede realizar conexiones a través de ellos, no funcionará el programa."
+"1	LINE	0
+	    else
+	        if [ "$VOL" = "muted" ] || [ "$VOL" -eq 0 ]; then
+	            printf "MUTE"
+	        elif [ "$VOL" -gt 0 ] && [ "$VOL" -le 33 ]; then
+	            printf "VOL %s%%" "$VOL"
+	        elif [ "$VOL" -gt 33 ] && [ "$VOL" -le 66 ]; then
+	            printf "VOL %s%%" "$VOL"
+	        else
+	            printf "VOL %s%%" "$VOL"
+	        fi
+	    fi
+|3,0,1,1,11,0,1637665691,"    else","        if [ \"$VOL\" = \"muted\" ] || [ \"$VOL\" -eq 0 ]; then","            printf \"MUTE\"","        elif [ \"$VOL\" -gt 0 ] && [ \"$VOL\" -le 33 ]; then","            printf \"VOL %s%%\" \"$VOL\"","        elif [ \"$VOL\" -gt 33 ] && [ \"$VOL\" -le 66 ]; then","            printf \"VOL %s%%\" \"$VOL\"","        else","            printf \"VOL %s%%\" \"$VOL\"","        fi","    fi"
+"2	LINE	0
+	    if [ "$IDENTIFIER" = "unicode" ]; then
+|3,0,2,1,1,0,1637665653,"    if [ \"$IDENTIFIER\" = \"unicode\" ]; then"
+"3	LINE	0
+	set guifont=Hack
+|3,0,3,1,1,0,1637619030,"set guifont=Hack"
+"4	LINE	0
+	the Vim window and can display loaded buffers and tabs in the current Vim
+	session).
+|3,0,4,1,2,0,1637617711,"the Vim window and can display loaded buffers and tabs in the current Vim","session)."
+"5	LINE	0
+	
+	set macligatures
+	set guifont=Fira\ Code:h12
+	
+|3,0,5,1,4,0,1637616977,"","set macligatures","set guifont=Fira\\ Code:h12",""
+"6	LINE	0
+	packadd! dracula
+|3,0,6,1,1,0,1637613837,"packadd! dracula"
+"7	LINE	0
+	Plug 'morhetz/gruvbox'
+|3,0,7,1,1,0,1637613677,"Plug 'morhetz/gruvbox'"
+"8	LINE	0
+	 " Emmet
+|3,0,8,1,1,0,1633187812," \" Emmet"
+"9	LINE	0
+	let g:user_emmet_leader_key='<C-a>'
+|3,0,9,1,1,0,1633187811,"let g:user_emmet_leader_key='<C-a>'"
+"j	CHAR	0
+	ertew
+|3,0,19,0,1,0,1633187891,"ertew"
+"u	CHAR	0
+	ijjkkjjjjjjjkkkkkkkkkkkkkkkkkkkkkjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjj
+|3,0,30,0,1,0,1633184535,"ijjkkjjjjjjjkkkkkkkkkkkkkkkkkkkkkjjjkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkjjjjjjjjjjjjjjjjjjjjj"
+"-	CHAR	0
+	 
+|3,0,36,0,1,0,1637619090," "
+
+# Marcas en el archivo:
+'0  5  0  ~/.gitconfig
+|4,48,5,0,1639389945,"~/.gitconfig"
+'1  142  51  /opt/dwm/config.def.h
+|4,49,142,51,1639133423,"/opt/dwm/config.def.h"
+'2  115  0  ~/.alacritty.yml
+|4,50,115,0,1638633556,"~/.alacritty.yml"
+'3  195  13  ~/.zshrc
+|4,51,195,13,1638633060,"~/.zshrc"
+'4  2  8  ~/.emacs.d/init.el
+|4,52,2,8,1637865578,"~/.emacs.d/init.el"
+'5  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,53,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+'6  12  5  ~/RemoteAccess.txt
+|4,54,12,5,1637843242,"~/RemoteAccess.txt"
+'7  22  4  /opt/dwmblocks/scripts/dwm_pulse.sh
+|4,55,22,4,1637665738,"/opt/dwmblocks/scripts/dwm_pulse.sh"
+'8  15  38  /opt/dwmblocks/blocks.def.h
+|4,56,15,38,1637665555,"/opt/dwmblocks/blocks.def.h"
+'9  1  0  /opt/dwmblocks/scripts/dwm_alsa.sh
+|4,57,1,0,1637665520,"/opt/dwmblocks/scripts/dwm_alsa.sh"
+
+# Lista de saltos (el más reciente va primero):
+-'  5  0  ~/.gitconfig
+|4,39,5,0,1639389945,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1639389933,"~/.gitconfig"
+-'  142  51  /opt/dwm/config.def.h
+|4,39,142,51,1639133423,"/opt/dwm/config.def.h"
+-'  142  51  /opt/dwm/config.def.h
+|4,39,142,51,1639133423,"/opt/dwm/config.def.h"
+-'  1  0  /opt/dwm/config.def.h
+|4,39,1,0,1639133402,"/opt/dwm/config.def.h"
+-'  1  0  /opt/dwm/config.def.h
+|4,39,1,0,1639133402,"/opt/dwm/config.def.h"
+-'  115  0  ~/.alacritty.yml
+|4,39,115,0,1638633556,"~/.alacritty.yml"
+-'  115  0  ~/.alacritty.yml
+|4,39,115,0,1638633556,"~/.alacritty.yml"
+-'  115  0  ~/.alacritty.yml
+|4,39,115,0,1638633556,"~/.alacritty.yml"
+-'  115  0  ~/.alacritty.yml
+|4,39,115,0,1638633556,"~/.alacritty.yml"
+-'  1  0  ~/.alacritty.yml
+|4,39,1,0,1638633491,"~/.alacritty.yml"
+-'  1  0  ~/.alacritty.yml
+|4,39,1,0,1638633491,"~/.alacritty.yml"
+-'  1  0  ~/.alacritty.yml
+|4,39,1,0,1638633491,"~/.alacritty.yml"
+-'  1  0  ~/.alacritty.yml
+|4,39,1,0,1638633491,"~/.alacritty.yml"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  195  13  ~/.zshrc
+|4,39,195,13,1638633060,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  1  0  ~/.zshrc
+|4,39,1,0,1638632867,"~/.zshrc"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  2  8  ~/.emacs.d/init.el
+|4,39,2,8,1637865578,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  1  0  ~/.emacs.d/init.el
+|4,39,1,0,1637865525,"~/.emacs.d/init.el"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  228  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,228,0,1637860238,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+-'  1  0  ~/pdf-tools/pdf-tools-1.0/README
+|4,39,1,0,1637860199,"~/pdf-tools/pdf-tools-1.0/README"
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/.gitconfig
+	*	1639389939	0
+	"	5	0
+
+> /opt/dwm/config.def.h
+	*	1639133406	0
+	"	142	51
+
+> ~/.alacritty.yml
+	*	1638633554	0
+	"	115	0
+	^	114	35
+	.	114	34
+	+	114	16
+	+	125	0
+	+	114	16
+	+	125	0
+	+	114	20
+	+	17	0
+	+	18	0
+	+	24	2
+	+	25	0
+	+	24	8
+	+	114	34
+
+> ~/.zshrc
+	*	1638633051	0
+	"	195	13
+	^	195	14
+	.	195	10
+	+	80	55
+	+	83	69
+	+	194	10
+	+	193	10
+	+	192	10
+	+	195	10
+
+> ~/.emacs.d/init.el
+	*	1637865573	0
+	"	2	8
+	^	1	0
+	.	1	0
+	+	1	0
+
+> ~/pdf-tools/pdf-tools-1.0/README
+	*	1637860226	0
+	"	228	0
+
+> ~/RemoteAccess.txt
+	*	1637843240	0
+	"	12	5
+	^	12	391
+	.	12	391
+	+	1	0
+	+	2	298
+	+	3	386
+	+	4	191
+	+	6	30
+	+	7	173
+	+	7	261
+	+	8	0
+	+	7	261
+	+	8	159
+	+	9	24
+	+	10	185
+	+	10	0
+	+	11	133
+	+	12	391
+
+> /opt/dwmblocks/scripts/dwm_pulse.sh
+	*	1637665705	0
+	"	22	4
+	.	22	0
+	+	13	0
+	+	22	0
+
+> /opt/dwmblocks/blocks.def.h
+	*	1637665552	0
+	"	15	38
+	^	15	39
+	.	15	38
+	+	15	38
+
+> /opt/dwmblocks/scripts/dwm_alsa.sh
+	*	1637665520	0
+	"	1	0
+
+> ~/.xprofile
+	*	1637664334	0
+	"	7	0
+	^	4	36
+	.	4	35
+	+	8	0
+	+	4	35
+
+> /etc/profile.d/jre.sh
+	*	1637660370	0
+	"	1	0
+
+> ~/.vimrc
+	*	1637619670	0
+	"	13	5
+	^	13	6
+	.	14	0
+	+	1	0
+	+	1	38
+	+	1	0
+	+	1	18
+	+	1	0
+	+	1	10
+	+	1	24
+	+	1	0
+	+	1	20
+	+	1	4
+	+	1	0
+	+	1	15
+	+	1	37
+	+	1	0
+	+	2	0
+	+	1	6
+	+	2	6
+	+	1	29
+	+	2	30
+	+	3	30
+	+	5	11
+	+	6	0
+	+	12	26
+	+	2	28
+	+	14	0
+
+> ~/.vim/plug-config/airline.vim
+	*	1637619596	0
+	"	2	0
+	^	12	2
+	.	12	1
+	+	10	32
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	11	0
+	+	12	0
+	+	4	0
+	+	5	0
+	+	6	0
+	+	7	0
+	+	10	0
+	+	11	1
+	+	12	1
+
+> ~/.vim/plugged/vim-devicons/NERD_tree_1
+	*	1637619518	0
+	"	10	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/plugged/vim-airline/plugin/airline.vim
+	*	1637619450	0
+	"	300	0
+
+> ~/.vim/general/NERD_tree_1
+	*	1637619163	0
+	"	11	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/general/settings.vim
+	*	1637619100	0
+	"	1	0
+	.	40	0
+	+	1	0
+	+	49	25
+	+	49	78
+	+	49	0
+	+	49	92
+	+	38	19
+	+	22	0
+	+	3	0
+	+	17	0
+	+	18	0
+	+	22	0
+	+	4	17
+	+	5	11
+	+	6	25
+	+	7	11
+	+	12	20
+	+	13	0
+	+	9	0
+	+	12	0
+	+	25	26
+	+	12	0
+	+	13	0
+	+	45	7
+	+	39	0
+	+	38	0
+	+	39	0
+	+	42	0
+	+	33	0
+	+	45	32
+	+	38	18
+	+	38	0
+	+	34	0
+	+	40	0
+
+> ~/.vim/plugged/vim-airline/doc/airline.txt
+	*	1637618900	0
+	"	189	0
+	.	91	0
+	+	91	0
+
+> ~/.vim/plugged/vim-devicons/pythonx/vim_devicons/powerline/segments.py
+	*	1637618849	0
+	"	16	26
+
+> ~/xmodmap.conf
+	*	1637618750	0
+	"	56	0
+
+> ~/paquetes.txt
+	*	1637618740	0
+	"	17	0
+
+> ~/paquetes
+	*	1637618699	0
+	"	1	0
+
+> ~/.vim/plugged/vim-devicons/README.md
+	*	1637618107	0
+	"	1	0
+
+> ~/.vim/plugged/vim-devicons/pythonx/vim_devicons/powerline/__init__.py
+	*	1637618027	0
+	"	2	0
+
+> ~/.vim/plugged/vim-devicons/pythonx/vim_devicons/__init__.py
+	*	1637618006	0
+	"	1	0
+
+> ~/.vim/plugged/vim-airline/README.md
+	*	1637617816	0
+	"	272	0
+
+> ~/.vim/plugged/plugins.vim
+	*	1637617783	0
+	"	32	0
+	^	27	25
+	.	27	24
+	+	3	0
+	+	2	0
+	+	23	11
+	+	24	20
+	+	25	0
+	+	23	1
+	+	24	39
+	+	23	2
+	+	24	2
+	+	26	11
+	+	27	24
+
+> ~/.vim/plugged/vim-airline-themes/README.md
+	*	1637617266	0
+	"	62	0
+
+> ~/.vim/plug-config/nerdcommenter.vim
+	*	1637617148	0
+	"	25	0
+
+> ~/.vim/coc-settings.json
+	*	1637617091	0
+	"	2	0
+	^	2	67
+	.	2	66
+	+	1	1
+	+	3	1
+	+	4	42
+	+	2	24
+	+	4	0
+	+	3	0
+	+	2	66
+
+> ~/fonts/README.rst
+	*	1637616751	0
+	"	97	0
+
+> ~/fonts/FiraMono/README.rst
+	*	1637615788	0
+	"	8	0
+
+> ~/.zsh_history
+	*	1637615408	0
+	"	44	0
+
+> ~/.vim/plugged/vim-airline-themes/plugin/airline-themes.vim
+	*	1637613601	0
+	"	1	0
+
+> ~/.vim/plug-config/coc.vim
+	*	1637613555	0
+	"	46	0
+	.	2	0
+	+	2	0
+
+> ~/.vim/plug-config/coc.vi
+	*	1637613545	0
+	"	1	0
+
+> ~/.vim/.vimrc (copia)
+	*	1637613500	0
+	"	40	0
+
+> ~/.vim/.vimrc
+	*	1637613457	0
+	"	1	0
+	^	31	15
+
+> ~/.vim/.index.html.swp
+	*	1637613447	0
+	"	1	0
+
+> ~/.viminfo
+	*	1637613157	0
+	"	517	1
+
+> ~/.vim/.git/COMMIT_EDITMSG
+	*	1637346164	0
+	"	1	0
+
+> ~/.vscode/argv.json
+	*	1637345397	0
+	"	1	0
+
+> /var/www/agarces/todo_list.php
+	*	1636309781	0
+	"	15	45
+	^	4	17
+	.	4	16
+	+	1	0
+	+	2	15
+	+	3	21
+	+	4	16
+
+> ~/.oh-my-zsh/oh-my-zsh.sh
+	*	1636309264	0
+	"	149	0
+
+> /var/www/agarces/info.php
+	*	1636307869	0
+	"	3	0
+	^	3	0
+	.	2	10
+	+	1	5
+	+	2	10
+
+> /var/www/agarces.es/index.html
+	*	1636307400	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/prueba
+	*	1636306993	0
+	"	1	0
+
+> ~/index.html
+	*	1636131464	0
+	"	1	0
+	.	8	0
+	+	1	5
+	+	1	0
+	+	1	4
+	+	1	2
+	+	1	4
+	+	1	0
+	+	1	84
+	+	1	80
+	+	1	0
+	+	6	5
+	+	7	0
+	+	8	0
+	+	1	6
+	+	1	4
+	+	1	0
+	+	8	0
+
+> ~/.vim/keymapping/keys.vim
+	*	1633187815	0
+	"	52	0
+	.	53	0
+	+	2	0
+	+	38	0
+	+	37	0
+	+	38	14
+	+	39	0
+	+	37	1
+	+	15	0
+	+	22	10
+	+	23	10
+	+	22	8
+	+	23	0
+	+	22	0
+	+	39	0
+	+	39	15
+	+	39	0
+	+	53	8
+	+	53	30
+	+	53	23
+	+	53	0
+
+> ~/NERD_tree_1
+	*	1633187778	0
+	"	18	0
+	.	1	0
+	+	1	0
+
+> /usr/share/vim/vim81/doc/help.txt
+	*	1633186568	0
+	"	114	15
+
+> /usr/share/vim/vim81/doc/quickref.txt
+	*	1633185530	0
+	"	382	45
+
+> ~/help
+	*	1633185235	0
+	"	1	0
+
+> ~/quickref
+	*	1633185184	0
+	"	1	0
+
+> /tmp/tutorpltMe5
+	*	1633184989	0
+	"	769	77
+	^	667	80
+	.	667	79
+	+	337	14
+	+	667	79
+
+> ~/NERD_tree_2
+	*	1633183982	0
+	"	30	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/autoload/plug.vim
+	*	1633183953	0
+	"	2802	0
+
+> ~/.vimrc-backup
+	*	1633182319	0
+	"	81	0
+
+> ~/.vim/plug-config/Airline.vim
+	*	1633179020	0
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/.vim/plug-config/Nerdcommenter.vim
+	*	1633178999	0
+	"	2	0
+	.	2	0
+	+	2	0
+
+> ~/.vim/index.html
+	*	1633178759	0
+	"	1	1
+	.	1	1
+	+	1	5
+	+	1	1
+
+> ~/nodesource_setup.sh
+	*	1633175102	0
+	"	85	0

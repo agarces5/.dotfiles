@@ -1,0 +1,504 @@
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.209: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.215: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.215: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.216: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.216: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.216: Unable to locate theme engine in module_path: "murrine",
+sh: línea 1: ./autostart_blocking.sh: No existe el fichero o el directorio
+sh: línea 1: ./autostart.sh: No existe el fichero o el directorio
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.489: Unable to locate theme engine in module_path: "adwaita",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.492: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.492: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.492: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.492: Unable to locate theme engine in module_path: "murrine",
+
+(nitrogen:2105): Gtk-WARNING **: 11:03:05.492: Unable to locate theme engine in module_path: "murrine",
+
+(firefox:2827): Gtk-WARNING **: 11:04:36.156: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:2827): Gtk-WARNING **: 11:04:36.156: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:36.170: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:36.170: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/24 of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/32 of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.153: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:41.714: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:41.715: Theme parsing error: gtk.css:5812:14: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:41.715: Theme parsing error: gtk.css:5813:13: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:41.715: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.922: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.922: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.922: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:41.922: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.014: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.014: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.014: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.014: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.063: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.063: Theme parsing error: gtk.css:5812:14: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.063: Theme parsing error: gtk.css:5813:13: not a number
+
+(firefox:2827): Gtk-WARNING **: 11:04:42.063: Theme parsing error: gtk.css:5814:11: Expected a length
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/24 of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/32 of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.412: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.601: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.601: Theme parsing error: gtk.css:5812:14: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.601: Theme parsing error: gtk.css:5813:13: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.601: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.698: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.699: Theme parsing error: gtk.css:5812:14: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.699: Theme parsing error: gtk.css:5813:13: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.699: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.760: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.761: Theme parsing error: gtk.css:5812:14: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.761: Theme parsing error: gtk.css:5813:13: not a number
+
+(thunderbird:2838): Gtk-WARNING **: 11:04:52.761: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(thunar:2847): Gtk-WARNING **: 11:05:00.012: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(thunar:2847): Gtk-WARNING **: 11:05:00.012: Theme parsing error: gtk.css:5812:14: not a number
+
+(thunar:2847): Gtk-WARNING **: 11:05:00.012: Theme parsing error: gtk.css:5813:13: not a number
+
+(thunar:2847): Gtk-WARNING **: 11:05:00.013: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/24 of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/32 of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(thunar:2847): Gtk-WARNING **: 11:05:11.053: Theme directory actions/symbolic of theme Dracula has no size field
+
+ThunarThumbnailer: Failed to retrieve supported types: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.thumbnails.Thumbnailer1 was not provided by any .service files
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.049: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.049: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-WARNING **: 11:30:34.050: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f79cf41d410' of type 'MaiAtkType139'
+
+(firefox:2827): GLib-GObject-WARNING **: 11:30:34.050: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f79cf41d1d0' of type 'MaiAtkType139'
+
+(firefox:2827): GLib-GObject-WARNING **: 11:30:34.074: ../glib/gobject/gsignal.c:3599: signal name 'load_complete' is invalid for instance '0x7f79cf41d470' of type 'MaiAtkType139'
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.088: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.092: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.092: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.093: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.093: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.104: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.105: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.179: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:34.270: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:30:59.948: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(firefox:2827): GLib-GObject-CRITICAL **: 11:58:55.826: g_type_add_interface_static: assertion 'g_type_parent (interface_type) == G_TYPE_INTERFACE' failed
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+[Parent 2827, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox/src/firefox-95.0/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+
+(thunderbird:2838): libnotify-WARNING **: 13:05:27.378: Failed to connect to proxy
+
+(thunderbird:2838): Gtk-CRITICAL **: 13:05:27.382: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(thunderbird:2838): Gtk-CRITICAL **: 13:05:27.421: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[2021-12-09T12:39:46Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+thunar-volman: No hay ningún dispositivo en la ruta «sysfs» "/sys/devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.1".
+thunar-volman: Tipo de dispositivo USB "usb" no compatible.
+thunar-volman: Tipo de dispositivo USB "btusb" no compatible.
+thunar-volman: Tipo de dispositivo USB "btusb" no compatible.
+
+(thunderbird:2838): Gtk-CRITICAL **: 09:27:47.566: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+
+(thunderbird:2838): Gtk-CRITICAL **: 09:27:47.593: gtk_widget_get_window: assertion 'GTK_IS_WIDGET (widget)' failed
+ATTENTION: default value of option mesa_glthread overridden by environment.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[2021-12-10T08:38:05Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:05Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:05Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[2021-12-10T08:38:07Z ERROR style::stylesheets::rule_parser] Saw @import rule, but no way to trigger the load
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+JavaScript error: resource:///modules/ActivityManager.jsm, line 129: NS_ERROR_NOT_AVAILABLE: 
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.577: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.577: Theme parsing error: gtk.css:5812:14: not a number
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.577: Theme parsing error: gtk.css:5813:13: not a number
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.577: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.633: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.633: Theme parsing error: gtk.css:5812:14: not a number
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.633: Theme parsing error: gtk.css:5813:13: not a number
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.634: Theme parsing error: gtk.css:5814:11: Expected a length
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/24 of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/32 of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/16@2x of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/22@2x of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/24@2x of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/32@2x of theme Dracula has no size field
+
+
+(com.github.maoschanz.drawing:47117): Gtk-WARNING **: 09:42:13.674: Theme directory actions/symbolic of theme Dracula has no size field
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[ 10/12/21 09:46:26.053 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 9 DRAWABLE request 139 minor 4 serial 2049901)
+[ 10/12/21 09:46:26.055 paint_one ERROR ] Window 0x00c03cc8 is missing painting data.
+[ 10/12/21 09:46:26.060 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 9 DRAWABLE request 139 minor 4 serial 2049932)
+[ 10/12/21 09:46:26.061 paint_one ERROR ] Window 0x00c03cc8 is missing painting data.
+[ 10/12/21 09:46:26.062 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 9 DRAWABLE request 139 minor 4 serial 2049959)
+[ 10/12/21 09:46:26.062 paint_one ERROR ] Window 0x00c03cc8 is missing painting data.
+[ 10/12/21 09:46:26.070 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 9 DRAWABLE request 139 minor 4 serial 2049985)
+[ 10/12/21 09:46:26.070 paint_one ERROR ] Window 0x00c03cc8 is missing painting data.
+[ 10/12/21 09:46:26.080 x_create_picture_with_pictfmt_and_pixmap ERROR ] failed to create picture (X error 9 DRAWABLE request 139 minor 4 serial 2050011)
+[ 10/12/21 09:46:26.080 paint_one ERROR ] Window 0x00c03cc8 is missing painting data.
+env: «wine»: No existe el fichero o el directorio
+env: «wine»: No existe el fichero o el directorio
+
+(com.github.maoschanz.drawing:48971): Gtk-WARNING **: 09:47:44.784: Theme parsing error: gtk.css:5809:26: '-shadow' is not a valid color name
+
+(com.github.maoschanz.drawing:48971): Gtk-WARNING **: 09:47:44.784: Theme parsing error: gtk.css:5812:14: not a number
+
+(com.github.maoschanz.drawing:48971): Gtk-WARNING **: 09:47:44.784: Theme parsing error: gtk.css:5813:13: not a number
+
+(com.github.maoschanz.drawing:48971): Gtk-WARNING **: 09:47:44.784: Theme parsing error: gtk.css:5814:11: Expected a length
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
